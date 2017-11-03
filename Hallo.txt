@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-Hallo
-=======
-
-Welt!!!
->>>>>>> refs/remotes/origin/branch-b
